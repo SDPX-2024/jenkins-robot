@@ -2,7 +2,7 @@
 Library           RequestsLibrary
 
 *** Variables ***
-${BASE_URL}       http://localhost:5001/plus
+${BASE_URL}       http://localhost:5000/plus
 
 *** Keywords ***
 Test Plus Endpoint
